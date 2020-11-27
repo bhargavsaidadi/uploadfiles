@@ -1,4 +1,3 @@
-.gitIgnore
 
 Step1:
 
